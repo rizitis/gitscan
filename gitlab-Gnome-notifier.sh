@@ -17,10 +17,14 @@ BRANCHES=(
     "master"
     "master"
     "master"
+    "master"
+    "master"
 )
 
 # Set the initial commit SHA for each repository
 PREV_COMMITS=(
+    ""
+    ""
     ""
     ""
     ""

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # this script scan these gnome repo for changes every 15 min and if found changes notify desktop message.
-# You can add ass many repos you want and also you can change sleeping time to what you need...
+# You can add as many repos you want and also you can change sleeping time to what you need...
 # run it with this command 'nohup path/to/script.sh &'
 # it will run even if user logout ;)
 
